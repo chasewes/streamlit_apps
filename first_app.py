@@ -9,4 +9,4 @@ button2 = st.button('Say Kenobi')
 if button1:
     st.write('Hello there!')
 if button2:
-    st.write('General !')
+    st.write('General weaboo!!')
